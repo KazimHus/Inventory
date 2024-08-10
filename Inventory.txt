@@ -1,0 +1,28 @@
+
+                              Inventory Report
+
+Item	        Manufacturer	Quantity	    Cost each($)	  Total value($)
+
+Capacitor	Ohmite	            70	           0.73		  51.10
+Oscilloscope	EBrand	             2	         100.00		 200.00
+Resistor	         Ohmite	           100	           0.05		   5.00
+
+Number of different items: 3
+Total quantity: 172
+Total value of all items: $256.10
+
+
+
+
+ 
+                                Reorder Report
+  
+Item	        Manufacturer	Quantity	       Minimum      Order	       Cost($)
+Capacitor	Ohmite	           70	             80	     10	         7.30
+Resistor	         Ohmite	          100	            250	    150	         7.50
+
+Number of different items to order: 2
+Total number to order: 160
+Total cost: $14.80
+
+
